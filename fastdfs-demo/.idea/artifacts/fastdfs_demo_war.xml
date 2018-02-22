@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fastdfs-demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="fastdfs.demo.war">
+      <element id="artifact" artifact-name="fastdfs-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
